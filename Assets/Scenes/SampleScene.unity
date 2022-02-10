@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   steerSpeed: 0.7
-  moveSpeed: 0.03
+  moveSpeed: 0.01
 --- !u!212 &324329301
 SpriteRenderer:
   m_ObjectHideFlags: 0
