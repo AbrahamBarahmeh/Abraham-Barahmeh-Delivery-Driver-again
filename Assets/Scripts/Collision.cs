@@ -8,4 +8,11 @@ public class Collision : MonoBehaviour
     {
         Debug.Log("Ouch!!");
     }
+
+
+    void OnTriggerEnter(Collider other)
+     {
+         Debug.Log("What was that?!?!");
+        
+    }
 }
